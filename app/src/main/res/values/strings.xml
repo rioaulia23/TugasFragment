@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AndroidLatihan4_fragment</string>
+    <string name="jkt">Indonesia consists of hundreds of distinct native ethnic and linguistic groups, with the largest—and politically dominant—ethnic group being the Javanese. A shared identity has developed, defined by a national language, ethnic diversity, religious pluralism within a Muslim-majority population, and a history of colonialism and rebellion against it. Indonesias national motto, Bhinneka Tunggal Ika Unity in Diversity literally, many, yet one, articulates the diversity that shapes the country. Indonesias economy is the worlds 16th largest by nominal GDP and the 7th largest by GDP at PPP.</string>
+    <string name="mlg">Kota Malang adalah sebuah kota yang terletak di Provinsi Jawa Timur, Indonesia, kota terbesar kedua di Jawa Timur setelah Surabaya, dan kota terbesar ke-12 di Indonesia. Kota ini didirikan pada masa Kerajaan Kanjuruhan dan terletak di dataran tinggi seluas 145,28 km² yang terletak di tengah-tengah Kabupaten Malang.</string>
+    <string name="sby">Kota Surabaya adalah ibu kota Provinsi Jawa Timur, Indonesia, sekaligus kota metropolitan terbesar di provinsi tersebut. Surabaya merupakan kota terbesar kedua di Indonesia setelah Jakarta. Kota ini terletak 796 km sebelah timur Jakarta, atau 415 km sebelah barat laut Denpasar, Bali.</string>
+    <string name="bxt">Kota Bontang adalah sebuah kota di provinsi Kalimantan Timur, Indonesia. Kota ini terletak sekitar 120 kilometer dari Kota Samarinda, berbatasan langsung dengan Kabupaten Kutai Timur di utara dan barat, Kabupaten Kutai Kartanegara di selatan dan Selat Makassar di timur. Letak geografisnya 0.137° LU dan 117.5° BT</string>
+    <string name="bdg">Kota Bandung merupakan kota metropolitan terbesar di Provinsi Jawa Barat, sekaligus menjadi ibu kota provinsi tersebut. Kota ini terletak 140 km sebelah tenggara Jakarta, dan merupakan kota terbesar di wilayah Pulau Jawa bagian selatan.</string>
+    <string name="jgj">Kota Yogyakarta adalah ibu kota dan pusat pemerintahan Daerah Istimewa Yogyakarta, Indonesia. Kota Yogyakarta adalah kediaman bagi Sultan Hamengkubuwana dan Adipati Paku Alam</string>
+    <string name="mks">Kota Makassar adalah ibu kota provinsi Sulawesi Selatan. Makassar merupakan kota metropolitan terbesar di kawasan Indonesia Timur dan pada masa lalu pernah menjadi ibukota Negara Indonesia Timur dan Provinsi Sulawesi. </string>
+    <string name="kdr">Kota Kediri adalah sebuah kota di Provinsi Jawa Timur, Indonesia. Kota ini terletak 130 km sebelah barat daya Surabaya dan merupakan kota terbesar ketiga di Jawa Timur setelah Surabaya dan Malang menurut jumlah penduduk</string>
+    <string name="smd">Kota Samarinda merupakan ibu kota provinsi Kalimantan Timur, Indonesia serta kota terbesar di seluruh Pulau Kalimantan dengan jumlah penduduk 812,597 jiwa. Samarinda memiliki wilayah seluas 718 km² dengan kondisi geografi daerah berbukit dengan ketinggian bervariasi dari 10 sampai 200 meter dari permukaan laut</string>
+    <string name="bpp">Balikpapan adalah sebuah kota di Kalimantan Timur, Indonesia. Kota ini memiliki perekonomian terbesar di seantero Kalimantan, dengan total PDRB mencapai Rp79,65 triliun pada tahun 2016.</string>
+    <string-array name="data">
+        <item>Jakarta</item>
+        <item>Malang</item>
+        <item>Surabaya</item>
+        <item>Bontang</item>
+        <item>Bandung</item>
+        <item>Yogjakarta</item>
+        <item>Makassar</item>
+        <item>Kediri</item>
+        <item>Samarinda</item>
+        <item>Balikpapan</item>
+    </string-array>
+</resources>
+

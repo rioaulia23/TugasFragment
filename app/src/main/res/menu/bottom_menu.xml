@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ytu"
+        android:title="pertama" />
+    <item
+        android:icon="@drawable/ig"
+        android:title="kedua" />
+    <item
+        android:icon="@drawable/twitter"
+        android:title="ketiga" />
+    <item
+        android:icon="@drawable/ig"
+        android:title="keempat" />
+    <item
+        android:icon="@drawable/twitter"
+        android:title="kelima" />
+</menu>
